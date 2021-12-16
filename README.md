@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Krupique/Krupique/assets/header.gif" alt="Hi, I'm Henrique">
+  <img src="https://github.com/Krupique/Krupique/raw/main/assets/header.gif" alt="Hi, I'm Henrique">
 </p>
 
 

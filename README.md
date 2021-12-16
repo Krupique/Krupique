@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Krupique/Krupique/assets/header.gif" alt="Hi, I'm Henrique">
+</p>
+
+
+
 
 <!--
 **Krupique/Krupique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -50,7 +50,7 @@ _<h2>Languages</h2>_
 
 _<h2> Hobbies </h2>_
 * Piano 🎹
-* Arduino/Raspberry Pi 🌻 (no idea to this icon)
+* Arduino/Raspberry Pi 🌻 (no idea for this icon)
 * Motorbike 🏍
 * Bodybuilding 💪
 * Video games 🎮

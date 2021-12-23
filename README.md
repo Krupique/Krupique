@@ -2,8 +2,6 @@
   <img src="https://github.com/Krupique/Krupique/raw/main/assets/header.gif" alt="Hi, I'm Henrique">
 </p>
 
-<br>🚧 Ainda em construção 🧱🚧<br>
-
 _<h2>Bio</h2>_
 <p align="justify">&emsp;&emsp;Hi there 🐱‍👤, I'm Henrique. I am gradueted in Computer Science 👨‍🎓 and currently I live in Presidente Prudente, a country town of São Paulo in Brazil. I have experience with ASP NET CORE, HTML, CSS, JS, SQL Server. I worked for two years in an industry technology startup 🏭, so I was the do-it-all: software engineering, designer, front end, back end and database analyst and a good understanding of the industry business.</p>
 <blockquote>
@@ -24,6 +22,7 @@ _<h2>Bio</h2>_
 
 _<h2>Tech and Tools</h2>_
 <h5>Data scientist life</h5>
+<blockquote>The main technologies I use daily</blockquote>
 <a title="Python" href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a title="Tensorflow" href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
 <a title="Tableau" href=""><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
@@ -37,6 +36,7 @@ _<h2>Tech and Tools</h2>_
 <a title="Plotly" href=""><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
 <a title="JSON" href=""><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <h5>Web and Startup life</h5>
+<blockquote>The main technologies I used during in startup times</blockquote>
 <a title="Visual Studio" href=""><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 <a title=".NET and .NET CORE" href=""><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 <a title="C#" href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -47,6 +47,7 @@ _<h2>Tech and Tools</h2>_
 <a title="SQL Server" href=""><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
 <a title="SQL" href=""><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"></a>
 <h5>Academic life</h5>
+<blockquote>The main technologies I used in academic times</blockquote>
 <a title="C" href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a title="C++" href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a title="Java" href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>

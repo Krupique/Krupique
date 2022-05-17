@@ -11,14 +11,24 @@ _<h2>Bio</h2>_
 </blockquote>
 <p align="justify">&emsp;&emsp;However, it was in the analysis and science of the data that I fell in love ❤, and decided to migrate. My goal now is to understand the company's business and help managers make the best decisions using a lot of science and an analytical profile 📊.</p>
 <br>
-<blockquote>
-  <p align="justify">&emsp;&emsp;
+
     Porém, foi na análise e ciência de dados que eu me apaixonei, por isso decidi migrar. Meu objetivo agora é entender do negócio das empresas e ajudar os gestores a tomarem as melhores decisões por meio de muita ciência e um perfil analítico. 
   </p>
 </blockquote>
 
+_<h2>Portfólio</h2>_
+<p align="justify">
+You can find my main projects in this link: https://krupique.github.io/portfolio-io/ 👈<br/>
+&emsp;&emsp;
+  You will find the most varied types of projects: Exploratory Analysis, Machine Learning and Deep Learning (Classification, regression and clustering), Natural language processing, image classifications, videos and audio with Deep Learning and much more!
+</p>
 
-
+<blockquote>
+  <p align="justify">
+    Você pode encontrar meus projetos naquele link ali. ☝ <br/>&emsp;&emsp;
+    Lá você encontrará os mais variados tipos de projetos: Análise exploratória, Machine Learning e Deep Learning (Classificação, regressão e clusterização), processamento de linguagem natural, classificação de imagens, vídeos e áudio utilizando Deep Learning e muito mais! É conteúdo de qualidade, eu garanto!
+  </p>
+</blockquote>
 
 _<h2>Tech and Tools</h2>_
 <h5>Data scientist life</h5>

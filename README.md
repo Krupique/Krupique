@@ -12,11 +12,11 @@ _<h2>Bio</h2>_
 <p align="justify">&emsp;&emsp;However, it was in the analysis and science of the data that I fell in love ❤, and decided to migrate. My goal now is to understand the company's business and help managers make the best decisions using a lot of science and an analytical profile 📊.</p>
 <br>
 
-    Porém, foi na análise e ciência de dados que eu me apaixonei, por isso decidi migrar. Meu objetivo agora é entender do negócio das empresas e ajudar os gestores a tomarem as melhores decisões por meio de muita ciência e um perfil analítico. 
+> Porém, foi pela análise e ciência de dados que eu me apaixonei, por isso decidi migrar. Meu objetivo agora é entender do negócio das empresas e ajudar os gestores a tomarem as melhores decisões por meio de muita ciência e um perfil analítico. 
   </p>
 </blockquote>
 
-_<h2>Portfólio</h2>_
+_<h2>Portfolio</h2>_
 <p align="justify">
 You can find my main projects in this link: https://krupique.github.io/portfolio-io/ 👈<br/>
 &emsp;&emsp;

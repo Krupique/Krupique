@@ -9,11 +9,20 @@ _<h2>Bio</h2>_
     Olá. Eu sou Henrique. Sou formado em Ciência da Computação e atualmente vivo em Presidente Prudente, interior de São Paulo. Por dois anos eu fiz parte de uma startup prestando serviço de indústria 4.0 para indústrias do ramo de papel e embalagens. Por ser uma startup, eu era o faz tudo na empresa: O engenheiro de software, designer, front-end, back-end, analista de banco de dados e entendedor do negócio da empresa.
   </p>
 </blockquote>
-<p align="justify">&emsp;&emsp;However, it was in the analysis and science of the data that I fell in love ❤, and decided to migrate. My goal now is to understand the company's business and help managers make the best decisions using a lot of science and an analytical profile 📊.</p>
-<br>
 
-> Porém, foi pela análise e ciência de dados que eu me apaixonei, por isso decidi migrar. Meu objetivo agora é entender do negócio das empresas e ajudar os gestores a tomarem as melhores decisões por meio de muita ciência e um perfil analítico. 
+<p align="justify">&emsp;&emsp;However, it was in the analysis and science of the data that I fell in love ❤, and decided to migrate. My goal now is to understand the company's business and help managers make the best decisions using a lot of science and an analytical profile 📊.</p>
+
+<blockquote>
+ <p align="justify">&emsp;&emsp;
+ Porém, foi pela análise e ciência de dados que eu me apaixonei, por isso decidi migrar. Meu objetivo agora é entender do negócio das empresas e ajudar os gestores a tomarem as melhores decisões por meio de muita ciência e um perfil analítico. 
   </p>
+</blockquote>
+
+<p align="justify">&emsp;&emsp;I have experience with end-to-end project development. From problem definition, data collection, exploratory, statistical and descriptive analysis, predictive modeling and evaluation of results, presentation of the final result and model deployment, either as an API or embedded in the Site and/or in a cloud environment.</p>
+<blockquote>
+ <p align="justify">&emsp;&emsp;
+ Tenho experiência com o desenvolvimento ponta a ponta (end-to-end) do projeto. Desde a definição do problema, coleta dos dados, análise exploratória, estatística e descritiva, modelagem preditiva e avaliação dos resultados, apresentação do resultado final e deploy do modelo, seja como uma API ou incorporado no Site e/ou em ambiente nuvem.
+ </p>
 </blockquote>
 
 _<h2>Portfolio</h2>_
@@ -45,6 +54,12 @@ _<h2>Tech and Tools</h2>_
 <a title="Pytorch" href=""><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
 <a title="Plotly" href=""><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
 <a title="JSON" href=""><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
+<a title="Django" href=""><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+<a title="Flask" href=""><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a title="Heroku" href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+<a title="Amazon AWS" href=""><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a title="Google Cloud Computing" href=""><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+<a title="Microsoft Azure" href=""><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <h5>Web and Startup life</h5>
 <blockquote>The main technologies I used during in startup times</blockquote>
 <a title="Visual Studio" href=""><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>

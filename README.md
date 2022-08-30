@@ -3,27 +3,33 @@
 </p>
 
 _<h2>Bio</h2>_
-<p align="justify">&emsp;&emsp;Hi there 🐱‍👤, I'm Henrique. I am gradueted in Computer Science 👨‍🎓 and currently I live in Presidente Prudente, a country town of São Paulo in Brazil. I have experience with ASP NET CORE, HTML, CSS, JS, SQL Server. I worked for two years in an industry technology startup 🏭, so I was the do-it-all: software engineering, designer, front end, back end and database analyst and a good understanding of the industry business.</p>
+<p align="justify">&emsp;&emsp;Hello 😀. I'm Henrique, a computer scientist committed to delivering value and generating insights through data. More than two years of professional experience in end-to-end projects, offering Artificial Intelligence solutions for the Industry 4.0 sector. Experience in creating Machine Learning and Deployment models in Cloud environments.
+</p>
 <blockquote>
   <p align="justify">&emsp;&emsp;
-    Olá. Eu sou Henrique. Sou formado em Ciência da Computação e atualmente vivo em Presidente Prudente, interior de São Paulo. Por dois anos eu fiz parte de uma startup prestando serviço de indústria 4.0 para indústrias do ramo de papel e embalagens. Por ser uma startup, eu era o faz tudo na empresa: O engenheiro de software, designer, front-end, back-end, analista de banco de dados e entendedor do negócio da empresa.
+    Olá. Eu sou Henrique, cientista da computação comprometido em entregar valor e gerar insights por meio dos dados. Mais de dois anos com experiência profissional em projetos end-to-end, oferecendo soluções de Inteligência Artificial para o setor de Indústria 4.0. Experiência em criação de modelos de Machine Learning e Deploy em ambientes Cloud.
   </p>
 </blockquote>
 
-<p align="justify">&emsp;&emsp;However, it was in the analysis and science of the data that I fell in love ❤, and decided to migrate. My goal now is to understand the company's business and help managers make the best decisions using a lot of science and an analytical profile 📊.</p>
+<p align="justify">&emsp;&emsp;For two years I was part of a company that provides industry 4.0 services to industries in the packaging sector. I worked in all stages of the project (end-to-end), from the initial stage - gathering requirements, to the final publication of the web system. I have experience with the following technologies: HTML, CSS3 and JavaScript for Front-end development; C#, ASP.NET, Entity Framework for Back-end development; PL/SQL for database manipulation; Development of APIs to integrate the company's system with industrial machines using low-level programming; Microsoft Azure for Website versioning and publishing to Cloud services. ☁
+</p>
 
 <blockquote>
  <p align="justify">&emsp;&emsp;
- Porém, foi pela análise e ciência de dados que eu me apaixonei, por isso decidi migrar. Meu objetivo agora é entender do negócio das empresas e ajudar os gestores a tomarem as melhores decisões por meio de muita ciência e um perfil analítico. 
+ Por dois anos eu fiz parte de uma empresa que presta serviço de indústria 4.0 para indústrias do setor de embalagens. Eu atuei em todas as etapas do projeto (end-to-end), desde a etapa inicial - coleta de requisitos, até a publicação final do sistema web. Tenho experiência com as seguintes tecnologias: HTML, CSS3 e JavaScript para desenvolvimento Front-end; C#, ASP.NET, Entity Framework para desenvolvimento Back-end; PL/SQL para manipulação de banco de dados; Desenvolvimento de APIs para integrar o sistema da empresa com máquinas industriais utilizando programação em baixo nível; Microsoft Azure para controle de versão e publicação do Website em serviços Cloud.
   </p>
 </blockquote>
 
-<p align="justify">&emsp;&emsp;I have experience with end-to-end project development. From problem definition, data collection, exploratory, statistical and descriptive analysis, predictive modeling and evaluation of results, presentation of the final result and model deployment, either as an API or embedded in the Site and/or in a cloud environment.</p>
+<p align="justify">&emsp;&emsp;
+I've been focusing full-time on studies involving Data Science, Data Analysis, Machine Learning and Artificial Intelligence for eight months, taking several online courses and developing dozens of end-to-end projects, always focused on solving business problems. The technologies I currently use are: Python, R, PySpark, SQL, Flask, Django, platforms for AWS cloud services, GCP and Microsoft Azure. 📈📊
+
+</p>
 <blockquote>
  <p align="justify">&emsp;&emsp;
- Tenho experiência com o desenvolvimento ponta a ponta (end-to-end) do projeto. Desde a definição do problema, coleta dos dados, análise exploratória, estatística e descritiva, modelagem preditiva e avaliação dos resultados, apresentação do resultado final e deploy do modelo, seja como uma API ou incorporado no Site e/ou em ambiente nuvem.
+ Estou há oito meses focado em tempo integral em estudos envolvendo Data Sciece, Data Analysis, Machine Learning e Inteligência Artificial, fazendo vários cursos onlines e desenvolvendo dezenas de projetos, de ponta-a-ponta, sempre focado na resolução dos problemas de negócio. As tecnologias que eu utilizo atualmente são: Python, R, PySpark, SQL, Flask, Django, plataformas para serviços em nuvem AWS, GCP e Microsoft Azure.
  </p>
 </blockquote>
+
 
 _<h2>Portfolio</h2>_
 <p align="justify">

@@ -3,33 +3,27 @@
 </p>
 
 _<h2>Bio</h2>_
-<p align="justify">&emsp;&emsp;Hello 😀. I'm Henrique, a computer scientist committed to delivering value and generating insights through data. More than two years of professional experience in end-to-end projects, offering Artificial Intelligence solutions for the Industry 4.0 sector. Experience in creating Machine Learning and Deployment models in Cloud environments.
-</p>
-<blockquote>
-  <p align="justify">&emsp;&emsp;
-    Olá. Eu sou Henrique, cientista da computação comprometido em entregar valor e gerar insights por meio dos dados. Mais de dois anos com experiência profissional em projetos end-to-end, oferecendo soluções de Inteligência Artificial para o setor de Indústria 4.0. Experiência em criação de modelos de Machine Learning e Deploy em ambientes Cloud.
-  </p>
-</blockquote>
-
-<p align="justify">&emsp;&emsp;For two years I was part of a company that provides industry 4.0 services to industries in the packaging sector. I worked in all stages of the project (end-to-end), from the initial stage - gathering requirements, to the final publication of the web system. I have experience with the following technologies: HTML, CSS3 and JavaScript for Front-end development; C#, ASP.NET, Entity Framework for Back-end development; PL/SQL for database manipulation; Development of APIs to integrate the company's system with industrial machines using low-level programming; Microsoft Azure for Website versioning and publishing to Cloud services. ☁
+<p align="justify">&emsp;&emsp;Olá! 👋
 </p>
 
-<blockquote>
- <p align="justify">&emsp;&emsp;
- Por dois anos eu fiz parte de uma empresa que presta serviço de indústria 4.0 para indústrias do setor de embalagens. Eu atuei em todas as etapas do projeto (end-to-end), desde a etapa inicial - coleta de requisitos, até a publicação final do sistema web. Tenho experiência com as seguintes tecnologias: HTML, CSS3 e JavaScript para desenvolvimento Front-end; C#, ASP.NET, Entity Framework para desenvolvimento Back-end; PL/SQL para manipulação de banco de dados; Desenvolvimento de APIs para integrar o sistema da empresa com máquinas industriais utilizando programação em baixo nível; Microsoft Azure para controle de versão e publicação do Website em serviços Cloud.
-  </p>
-</blockquote>
+<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end). Fornecendo soluções de IA para o setor de Indústria 4.0. Tenho experiência com a criação de modelos de Machine Learning e Deploy em ambientes Cloud.
+</p>
 
 <p align="justify">&emsp;&emsp;
-I've been focusing full-time on studies involving Data Science, Data Analysis, Machine Learning and Artificial Intelligence for eight months, taking several online courses and developing dozens of end-to-end projects, always focused on solving business problems. The technologies I currently use are: Python, R, PySpark, SQL, Flask, Django, platforms for AWS cloud services, GCP and Microsoft Azure. 📈📊
-
+Por dois anos fiz parte de uma empresa que presta serviços de Indústria 4.0 para indústrias do setor de embalagens. Eu atuei no desenvolvimento de um SAP, com participação em todas as etapas do projeto (end-to-end), desde a fase inicial - 𝗰𝗼𝗹𝗲𝘁𝗮 𝗱𝗲 𝗿𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝘀, até a publicação final do sistema web. Utilizei as seguintes tecnologias: HTML, CSS e JavaScript para Front-end; 𝗖#, 𝗔𝗦𝗣.𝗡𝗘𝗧 e 𝗘𝗻𝘁𝗶𝘁𝘆 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 para Back-end; 𝗦𝗤𝗟 para banco de dados. Linguagem de baixo nível para desenvolvimento de APIs para integração do sistema web com máquinas industriais; 𝗔𝘇𝘂𝗿𝗲 e 𝗚𝗶𝘁 para controle de versão e publicação do site em serviços cloud. 📈📊
 </p>
-<blockquote>
- <p align="justify">&emsp;&emsp;
- Estou há oito meses focado em tempo integral em estudos envolvendo Data Sciece, Data Analysis, Machine Learning e Inteligência Artificial, fazendo vários cursos onlines e desenvolvendo dezenas de projetos, de ponta-a-ponta, sempre focado na resolução dos problemas de negócio. As tecnologias que eu utilizo atualmente são: Python, R, PySpark, SQL, Flask, Django, plataformas para serviços em nuvem AWS, GCP e Microsoft Azure.
- </p>
-</blockquote>
 
+<p align="justify">&emsp;&emsp;
+Atuei em um projeto como ETL Developer, no qual eu consegui obter uma economia de 5 horas diárias para o meu cliente, através de uma aplicação que realiza a extração dos dados de uma fonte de dados desestruturada, realiza a transformação com 𝗣𝘆𝘁𝗵𝗼𝗻 e 𝗙𝗹𝗮𝘀𝗸 e carrega os dados para uma tabela excel ou csv.
+</p>
+
+<p align="justify">&emsp;&emsp;
+Tenho experiência com programação orientada à objetos (𝗣𝗢𝗢) e aplicação de boas práticas de projeto com metodologias ágeis, utilizando 𝗞𝗮𝗻𝗯𝗮𝗻 para organizar as atividades e 𝗦𝗖𝗥𝗨𝗠 para desenvolvimento de projetos.
+</p>
+
+<p align="justify">&emsp;&emsp;
+Estou há onze meses focando em tempo integral nos estudos envolvendo desenvolvimento Back-End, Data Science, Machine Learning, Big Data e deploy de projetos em ambientes cloud, desenvolvendo dezenas de projetos, de ponta a ponta, sempre focados na resolução de problemas de negócios. Atualmente utilizo: 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗣𝘆𝗦𝗽𝗮𝗿𝗸, 𝗦𝗤𝗟, 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗙𝗹𝗮𝘀𝗸, 𝗗𝗼𝗰𝗸𝗲𝗿 e serviços em nuvem 𝗔𝗪𝗦, como 𝗘𝗖𝟮, 𝗘𝗠𝗥, 𝗘𝗖𝗦, 𝗘𝗖𝗥 e 𝗕𝘂𝗰𝗸𝗲𝘁 𝗦𝟯. ☁
+</p>
 
 _<h2>Portfolio</h2>_
 <p align="justify">

@@ -22,7 +22,7 @@ Tenho experiência com programação orientada à objetos (𝗣𝗢𝗢) e aplic
 </p>
 
 <p align="justify">&emsp;&emsp;
-Estou há onze meses focando em tempo integral nos estudos envolvendo desenvolvimento Back-End, Data Science, Machine Learning, Big Data e deploy de projetos em ambientes cloud, desenvolvendo dezenas de projetos, de ponta a ponta, sempre focados na resolução de problemas de negócios. Atualmente utilizo: 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗣𝘆𝗦𝗽𝗮𝗿𝗸, 𝗦𝗤𝗟, 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗙𝗹𝗮𝘀𝗸, 𝗗𝗼𝗰𝗸𝗲𝗿 e serviços em nuvem 𝗔𝗪𝗦, como 𝗘𝗖𝟮, 𝗘𝗠𝗥, 𝗘𝗖𝗦, 𝗘𝗖𝗥 e 𝗕𝘂𝗰𝗸𝗲𝘁 𝗦𝟯. ☁
+Estou há onze meses focado em tempo integral nos estudos envolvendo desenvolvimento Back-End, Data Science, Machine Learning, Big Data e deploy de projetos em ambientes cloud, desenvolvendo dezenas de projetos, de ponta a ponta, sempre focados na resolução de problemas de negócios. Atualmente utilizo: 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗣𝘆𝗦𝗽𝗮𝗿𝗸, 𝗦𝗤𝗟, 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗙𝗹𝗮𝘀𝗸, 𝗗𝗼𝗰𝗸𝗲𝗿 e serviços em nuvem 𝗔𝗪𝗦, como 𝗘𝗖𝟮, 𝗘𝗠𝗥, 𝗘𝗖𝗦, 𝗘𝗖𝗥 e 𝗕𝘂𝗰𝗸𝗲𝘁 𝗦𝟯. ☁
 </p>
 
 _<h2>Portfolio</h2>_

@@ -6,7 +6,7 @@ _<h2>Bio</h2>_
 <p align="justify">&emsp;&emsp;Olá! 👋
 </p>
 
-<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end). Fornecendo soluções de IA para o setor de Indústria 4.0. Tenho experiência com a criação de modelos de Machine Learning e Deploy em ambientes Cloud.
+<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end). Fornecendo soluções de IA para o setor de Indústria 4.0. Tenho experiência com a criação de modelos de Machine Learning e Deploy em ambientes Cloud.
 </p>
 
 <p align="justify">&emsp;&emsp;

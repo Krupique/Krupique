@@ -6,38 +6,19 @@ _<h2>Bio</h2>_
 <p align="justify">&emsp;&emsp;Olá! 👋
 </p>
 
-<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end). Fornecendo soluções de IA para o setor de Indústria 4.0. Tenho experiência com a criação de modelos de Machine Learning e Deploy em ambientes Cloud.
+<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 e 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end), fornecendo soluções de IA para o setor de Indústria 4.0. E hoje faço parte do time de dados da maior empresa de varejo e e-commerce do Brasil, a Americanas SA.
 </p>
 
 <p align="justify">&emsp;&emsp;
-Por dois anos fiz parte de uma empresa que presta serviços de Indústria 4.0 para indústrias do setor de embalagens. Eu atuei no desenvolvimento de um SAP, com participação em todas as etapas do projeto (end-to-end), desde a fase inicial - 𝗰𝗼𝗹𝗲𝘁𝗮 𝗱𝗲 𝗿𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝘀, até a publicação final do sistema web. Utilizei as seguintes tecnologias: HTML, CSS e JavaScript para Front-end; 𝗖#, 𝗔𝗦𝗣.𝗡𝗘𝗧 e 𝗘𝗻𝘁𝗶𝘁𝘆 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 para Back-end; 𝗦𝗤𝗟 para banco de dados. Linguagem de baixo nível para desenvolvimento de APIs para integração do sistema web com máquinas industriais; 𝗔𝘇𝘂𝗿𝗲 e 𝗚𝗶𝘁 para controle de versão e publicação do site em serviços cloud. 📈📊
-</p>
-
-<p align="justify">&emsp;&emsp;
-Atuei em um projeto como ETL Developer, no qual eu consegui obter uma economia de 5 horas diárias para o meu cliente, através de uma aplicação que realiza a extração dos dados de uma fonte de dados desestruturada, realiza a transformação com 𝗣𝘆𝘁𝗵𝗼𝗻 e 𝗙𝗹𝗮𝘀𝗸 e carrega os dados para uma tabela excel ou csv.
-</p>
-
-<p align="justify">&emsp;&emsp;
-Tenho experiência com programação orientada à objetos (𝗣𝗢𝗢) e aplicação de boas práticas de projeto com metodologias ágeis, utilizando 𝗞𝗮𝗻𝗯𝗮𝗻 para organizar as atividades e 𝗦𝗖𝗥𝗨𝗠 para desenvolvimento de projetos.
-</p>
-
-<p align="justify">&emsp;&emsp;
-Estou há onze meses focado em tempo integral nos estudos envolvendo desenvolvimento Back-End, Data Science, Machine Learning, Big Data e deploy de projetos em ambientes cloud, desenvolvendo dezenas de projetos, de ponta a ponta, sempre focados na resolução de problemas de negócios. Atualmente utilizo: 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗣𝘆𝗦𝗽𝗮𝗿𝗸, 𝗦𝗤𝗟, 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗙𝗹𝗮𝘀𝗸, 𝗗𝗼𝗰𝗸𝗲𝗿 e serviços em nuvem 𝗔𝗪𝗦, como 𝗘𝗖𝟮, 𝗘𝗠𝗥, 𝗘𝗖𝗦, 𝗘𝗖𝗥 e 𝗕𝘂𝗰𝗸𝗲𝘁 𝗦𝟯. ☁
+Atualmente sou 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 na Americanas SA e faço parte do time de Regionalização, cuja as responsabilidades estão na definição das regiões utilizadas nos cálculos de frete, logística de entrega e busca. O nosso objetivo é a constante busca pela melhoria dos prazos de entrega, utilizando modelos e ferramentas de georreferenciamento na clusterização da demanda e otimização dos serviços.
 </p>
 
 _<h2>Portfolio</h2>_
 <p align="justify">
-You can find my main projects in this link: https://krupique.github.io/portfolio-io/ 👈<br/>
+Você pode encontrar meus projetos neste link: https://krupique.github.io/portfolio-io/ 👈<br/>
 &emsp;&emsp;
-  You will find the most varied types of projects: Exploratory Analysis, Machine Learning and Deep Learning (Classification, regression and clustering), Natural language processing, image classifications, videos and audio with Deep Learning and much more!
+  Lá você encontrará os mais variados tipos de projetos: Análise exploratória, Machine Learning e Deep Learning (Classificação, regressão e clusterização), processamento de linguagem natural, classificação de imagens, vídeos e áudio utilizando Deep Learning e muito mais! É conteúdo de qualidade, eu garanto!
 </p>
-
-<blockquote>
-  <p align="justify">
-    Você pode encontrar meus projetos naquele link ali. ☝ <br/>&emsp;&emsp;
-    Lá você encontrará os mais variados tipos de projetos: Análise exploratória, Machine Learning e Deep Learning (Classificação, regressão e clusterização), processamento de linguagem natural, classificação de imagens, vídeos e áudio utilizando Deep Learning e muito mais! É conteúdo de qualidade, eu garanto!
-  </p>
-</blockquote>
 
 _<h2>Tech and Tools</h2>_
 <h5>Data scientist life</h5>

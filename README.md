@@ -6,11 +6,11 @@ _<h2>Bio</h2>_
 <p align="justify">&emsp;&emsp;Olá! 👋
 </p>
 
-<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 e 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end), fornecendo soluções de IA para o setor de Indústria 4.0. E hoje faço parte do time de dados da maior empresa de varejo e e-commerce do Brasil, a Americanas SA.
+<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end), fornecendo soluções de IA para o setor de Indústria 4.0. E hoje faço parte do time de dados da maior empresa de varejo e e-commerce do Brasil, a Americanas SA.
 </p>
 
 <p align="justify">&emsp;&emsp;
-Atualmente sou 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 na Americanas SA e faço parte do time de Regionalização, cuja as responsabilidades estão na definição das regiões utilizadas nos cálculos de frete, logística de entrega e busca. O nosso objetivo é a constante busca pela melhoria dos prazos de entrega, utilizando modelos e ferramentas de georreferenciamento na clusterização da demanda e otimização dos serviços.
+Atualmente sou 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 na Americanas SA e atuo no time de Regionalização, cuja as responsabilidades estão na definição das regiões utilizadas nos cálculos de frete, logística de entrega e busca. O nosso objetivo é a constante busca pela melhoria dos prazos de entrega, utilizando modelos e ferramentas de georreferenciamento na clusterização da demanda e otimização dos serviços.
 </p>
 
 _<h2>Portfolio</h2>_
@@ -78,36 +78,3 @@ _<h2>Where to find me</h2>_
 <a href="https://www.linkedin.com/in/henrique-krupck/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/h_krupck/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://outlook.live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-<a href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-
-
-
-**Krupique/Krupique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-

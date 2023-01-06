@@ -6,7 +6,7 @@ _<h2>Bio</h2>_
 <p align="justify">&emsp;&emsp;Olá! 👋
 </p>
 
-<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end), fornecendo soluções de IA para o setor de Indústria 4.0. E hoje faço parte do time de dados da maior empresa de varejo e e-commerce do Brasil, a Americanas SA.
+<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end), fornecendo soluções de IA para o setor de Indústria 4.0. E hoje faço parte do time de dados da 𝗔𝗺𝗲𝗿𝗶𝗰𝗮𝗻𝗮𝘀 𝗦𝗔, a maior empresa de varejo e e-commerce do Brasil.
 </p>
 
 <p align="justify">&emsp;&emsp;

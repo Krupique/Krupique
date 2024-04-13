@@ -3,21 +3,16 @@
 </p>
 
 _<h2>Bio</h2>_
-<p align="justify">&emsp;&emsp;Olá! 👋
-</p>
-
-<p align="justify">&emsp;&emsp;Eu sou Henrique, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 e 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 com mais de dois anos de experiência profissional atuando em projetos de ponta a ponta (end-to-end), fornecendo soluções de IA para o setor de Indústria 4.0. E hoje faço parte do time de dados da 𝗔𝗺𝗲𝗿𝗶𝗰𝗮𝗻𝗮𝘀 𝗦𝗔, a maior empresa de varejo e e-commerce do Brasil.
+<p align="justify">&emsp;&emsp;Hi there! 👋
 </p>
 
 <p align="justify">&emsp;&emsp;
-Atualmente sou 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 na Americanas SA e atuo no time de Regionalização, cuja as responsabilidades estão na definição das regiões utilizadas nos cálculos de frete, logística de entrega e busca. O nosso objetivo é a constante busca pela melhoria dos prazos de entrega, utilizando modelos e ferramentas de georreferenciamento na clusterização da demanda e otimização dos serviços.
+  I'm Henrique, a Data scientist and Enginer with more than 4 years of professional experience, including two years in the 4.0 industry and others in the retail and e-commerce sectors, I focus on problem-solving. Currently, I am part of the Pricing team at Americanas, the largest retailer in Brazil.
 </p>
 
 _<h2>Portfolio</h2>_
-<p align="justify">
-Você pode encontrar meus projetos neste link: https://krupique.github.io/portfolio-io/ 👈<br/>
-&emsp;&emsp;
-  Lá você encontrará os mais variados tipos de projetos: Análise exploratória, Machine Learning e Deep Learning (Classificação, regressão e clusterização), processamento de linguagem natural, classificação de imagens, vídeos e áudio utilizando Deep Learning e muito mais! É conteúdo de qualidade, eu garanto!
+<p align="justify">&emsp;&emsp;
+You can find my projects in this link: https://krupique.github.io/portfolio-io/ 👈
 </p>
 
 _<h2>Tech and Tools</h2>_
@@ -61,20 +56,6 @@ _<h2>Tech and Tools</h2>_
 <a title="MYSQL" href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a title="PostgreSQL" href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
-_<h2>Languages</h2>_
-* _Portuguese_ 🇧🇷
-* _English_ 🇬🇧 🇺🇸
-* _Musical language_ 🎵
-
-_<h2> Hobbies </h2>_
-* _Piano_ 🎹
-* _Arduino/Raspberry Pi_ 🌻 (no idea for this icon)
-* _Motorbike_ 🏍
-* _Bodybuilding_ 💪
-* _Video games_ 🎮
-
 _<h2>Where to find me</h2>_
-<a href="https://www.kaggle.com/krupck"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/henrique-krupck/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/h_krupck/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://outlook.live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
